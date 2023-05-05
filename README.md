@@ -45,13 +45,7 @@ My experience working on group/cross-departmental projects and leading and train
 ## Education
 
 #### Makers Academy (April 2023 to July 2023)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Git, TDD
 
 #### Leeds Metropolitan University (start_date to end_date)
 
@@ -59,10 +53,14 @@ My experience working on group/cross-departmental projects and leading and train
 - 2:2
 - Aside from giving me my creative flair, this is where I started to hone my communication and team work skills, all the group crits, presentations and exhibitions were the ideal environments to learn group organization, and to be able to give and recieve constructive criticism. 
 
-#### Any other qualifications
+#### Fitness Industry Education
 
-That in some arguable way make you a better software developer or well-rounded person
+- REPS Level 3 Certificate in Personal Training
+- My time as a PT was quite brief, but definitely gave me a push to develop my communication and leadership skills further. Training beginners to a confident level meant being able to break down complicated or scientific concepts and explain them in a simple way, whilst keeping them motivated and engaged throughout a challenging workout.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- The gym, especially weightlifting - More than anything, this has given me a mental discipline that I have carried through into other areas of my life.
+- Bouldering - I'm very much a beginner, but it's working out combined with problem solving, need I say more!
+- Music and creative arts - I love attending concerts, exhibitions etc.
+- Yoga or a good hike/country walk - The best antidote to sitting at a computer all day.
