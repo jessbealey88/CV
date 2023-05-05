@@ -22,23 +22,16 @@ _Customer Service and Front Office Team Lead_
 - Created cross departmental new starter training in CRM, HR software usage and VOIP system.
 - Responsible for staff training on any new or updated customer service processes.   
 - Instigated upsell campaign triggering customers to update products utilising email marketing with telephone scripted follow ups.
-- Automated renewal communications with customers with Google App scripts to replace mail merge process.
--Dashboard creation for new sales, cancellation rates/reason codes, and renewal rates in Data Studio for management insights
+- Automated renewal communications with customers with Google App scripts to replace mail merge process.  
+- Dashboard creation for new sales, cancellation rates/reason codes, and renewal rates in Data Studio for management insights
 
 
 
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
 #### Communication
-My experience working on group/cross-departmental projects and leading and training team members, whilst also providing excellent customer service has given me the ability to communicate effectively in a variety of situations about a multitude of topics.
+My experience working on group/cross-departmental projects and leading and training team members, whilst also providing excellent customer service has given me the ability to communicate effectively in a variety of situations about a multitude of topics. 
 
 #### Problem Solving
 
@@ -60,11 +53,11 @@ My experience working on group/cross-departmental projects and leading and train
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Leeds Metropolitan University (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA(Hons) Fine Art
+- 2:2
+- Aside from giving me my creative flair, this is where I started to hone my communication and team work skills, all the group crits, presentations and exhibitions were the ideal environments to learn group organization, and to be able to give and recieve constructive criticism. 
 
 #### Any other qualifications
 
