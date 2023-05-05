@@ -18,7 +18,7 @@ _Customer Service and Front Office Team Lead_
 - Reported directly to COO.  
 - Led customer service team. 
 - Pushed for automation in customer service processes such as customer onboarding, including DD submission, welcome pack distribution and creation of customer records within the CRM. This led to collaborating with the tech team to design and implement automation of the oboarding processes for several product campaigns.
-- Design and implementation of a new customer cancellation process, involving collaboration with tech team to create a cancellation form which notified staff of cancellation requests, and automatically updated the CRM.
+- Design and implementation of a new customer cancellation process, involving collaboration with tech team to create a cancellation form which notified staff of cancellation requests, and a dashboard within the CRM that tracked the status of a cancellation request.
 - Created cross departmental new starter training in CRM, HR software usage and VOIP system.
 - Responsible for staff training on any new or updated customer service processes.   
 - Instigated upsell campaign triggering customers to update products utilising email marketing with telephone scripted follow ups.
@@ -40,6 +40,7 @@ My experience working on group/cross-departmental projects and leading and train
 - I used Google Apps scripts to add automation to Google sheets which were used by my team for daily tasks, to make them more user friendly and efficient
 
 #### Leadership
+In my previous role I was responsible for leading and overseeing the customer service team, aswell as leading on the ongoing review and improvememt of processes within the department, training the team on any changes or updates to processes, and managing any feedback or issues that arose.
 
 
 ## Education
@@ -47,16 +48,16 @@ My experience working on group/cross-departmental projects and leading and train
 #### Makers Academy (April 2023 to July 2023)
 - Ruby, Git, TDD
 
-#### Leeds Metropolitan University (start_date to end_date)
+#### Leeds Metropolitan University (September 2008 to June 2011)
 
 - BA(Hons) Fine Art
 - 2:2
 - Aside from giving me my creative flair, this is where I started to hone my communication and team work skills, all the group crits, presentations and exhibitions were the ideal environments to learn group organization, and to be able to give and recieve constructive criticism. 
 
-#### Fitness Industry Education
+#### Fitness Industry Education (September 2015 to January 2016)
 
 - REPS Level 3 Certificate in Personal Training
-- My time as a PT was quite brief, but definitely gave me a push to develop my communication and leadership skills further. Training beginners to a confident level meant being able to break down complicated or scientific concepts and explain them in a simple way, whilst keeping them motivated and engaged throughout a challenging workout.
+- My time as a PT was quite brief, but definitely gave me a push to develop my communication and leadership skills further. Training beginners to a confident level meant being able to break down complicated or scientific concepts and explain them in a simple way, whilst keeping the client motivated and engaged throughout a challenging workout.
 
 ## Hobbies
 
