@@ -7,7 +7,7 @@ I love to solve a problem or make a process more efficient wherever possible, an
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Student Directory App]**(https://github.com/jessbealey88/student-directory)         | A webapp to do x. | React, Jest, etc. |
+| **[Student Directory App]**(/jessbealey88/student-directory)         | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
@@ -17,13 +17,13 @@ _Customer Service and Front Office Team Lead_
 
 - Reported directly to COO.  
 - Led customer service team. 
-- Pushed for automation in customer service processes such as customer onboarding, including DD submission, welcome pack distribution and creation of customer records within the CRM. This led to collaborating with the tech team to design and implement automation of the oboarding processes for several product campaigns.
+- Pushed for automation in customer service processes such as customer onboarding, including DD submission, welcome pack distribution and creation of customer records within the CRM. This led to collaborating with the tech team to design and implement automation of the onboarding processes for several product campaigns.
 - Design and implementation of a new customer cancellation process, involving collaboration with tech team to create a cancellation form which notified staff of cancellation requests, and a dashboard within the CRM that tracked the status of a cancellation request.
 - Created cross departmental new starter training in CRM, HR software usage and VOIP system.
 - Responsible for staff training on any new or updated customer service processes.   
 - Instigated upsell campaign triggering customers to update products utilising email marketing with telephone scripted follow ups.
 - Automated renewal communications with customers with Google App scripts to replace mail merge process.  
-- Dashboard creation for new sales, cancellation rates/reason codes, and renewal rates in Data Studio for management insights
+- Dashboard creation for new sales, cancellation rates/reason codes, and renewal rates in Data Studio for management insights.
 
 
 
