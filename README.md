@@ -7,7 +7,7 @@ I love to solve a problem or make a process more efficient wherever possible, an
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Student Directory App](github.com/jessbealey88/student-directory)**         | A webapp to do x. | React, Jest, etc. |
+| **[Student Directory App](https://github.com/jessbealey88/student-directory)**         | First makers project, an app to manage a student directory | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
